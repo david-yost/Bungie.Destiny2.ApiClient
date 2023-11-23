@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34302.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bungie.Destiny2.ApiClient", "Bungie.Destiny2.ApiClient\Bungie.Destiny2.ApiClient.csproj", "{157A0DB0-24AB-4944-BD52-799FE46F811A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bungie.Destiny2.Console", "Bungie.Destiny2.Console\Bungie.Destiny2.Console.csproj", "{90A1D9E3-A5FD-4EBE-9275-BC5C335146C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{157A0DB0-24AB-4944-BD52-799FE46F811A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{157A0DB0-24AB-4944-BD52-799FE46F811A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{157A0DB0-24AB-4944-BD52-799FE46F811A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{157A0DB0-24AB-4944-BD52-799FE46F811A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90A1D9E3-A5FD-4EBE-9275-BC5C335146C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90A1D9E3-A5FD-4EBE-9275-BC5C335146C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90A1D9E3-A5FD-4EBE-9275-BC5C335146C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90A1D9E3-A5FD-4EBE-9275-BC5C335146C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1CEEF46-CB9C-42B2-BCBF-B38E893324B5}
+	EndGlobalSection
+EndGlobal
